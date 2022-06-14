@@ -1,6 +1,6 @@
 This page is hosted on the netlify server
 
-https://dhirajpatil-95.netlify.app/
+https://dhirajpatil595.netlify.app/
 
 Page Responsiveness: To make it visible on every viewport, media queries are used.
 
